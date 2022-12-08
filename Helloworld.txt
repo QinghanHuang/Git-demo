@@ -10,7 +10,7 @@ It's a test for git.
 It's a test for git.
 It's a test for git.
 It's a test for git.
-new line
+new line main fix
 new line
 new line
 new line
