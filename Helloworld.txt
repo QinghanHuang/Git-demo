@@ -11,6 +11,7 @@ It's a test for git.
 It's a test for git.
 It's a test for git.
 new line main fix
+new line hot fix commit test
 new line
 new line
 new line
